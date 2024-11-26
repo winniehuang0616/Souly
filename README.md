@@ -76,7 +76,7 @@ At Souly, we are an online drawing platform where you can express your creativit
 
 ## DEMO:
 
-- Demo Link: https://www.youtube.com/watch?v=EqfqvrnUBrg
+- Demo Link: [https://www.youtube.com/watch?v=EqfqvrnUBrg](https://youtu.be/bd524cSo8vw)
 - Deployed Demo: https://wp1121-final-sooty.vercel.app/
 
 ## Contact Us:
